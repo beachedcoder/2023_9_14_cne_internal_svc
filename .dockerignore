@@ -5,3 +5,4 @@ tmp
 test
 *.yaml
 yaml
+k8s
